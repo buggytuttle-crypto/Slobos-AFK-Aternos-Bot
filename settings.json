@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "Slobot00",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "THESHRINE-fHzs.aternos.me",
     "port": 44063,
-    "version": "1.21.11",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
